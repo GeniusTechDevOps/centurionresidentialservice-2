@@ -36,7 +36,7 @@ const ServicesHome2: React.FC<SliderServicesProps> = ({
 
                         <Animated variant="fade-up" duration={"duration-700"} delay={"delay-200"}>
                             <h2 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 leading-tight">
-                                Professional <span className="text-primary">Painting</span> Services
+                                Professional <span className="text-primary">Cleaning</span> Services
                             </h2>
                         </Animated>
                     </div>
@@ -44,7 +44,7 @@ const ServicesHome2: React.FC<SliderServicesProps> = ({
                     <Animated variant="fade-left" duration={"duration-700"} delay={"delay-300"}>
                         <div className="flex flex-col items-start md:items-end">
                             <p className="text-slate-500 font-medium mb-4 text-left md:text-right max-w-xs">
-                                Quality Painting Servicess provided by certified professionals for over {dataglobal.yearsExperience} years.
+                                Quality Cleaning Servicess provided by certified professionals for over {dataglobal.yearsExperience} years.
                             </p>
                             <a
                                 href={`tel:+1${dataGeneral?.phones[0].number}`}

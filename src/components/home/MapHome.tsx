@@ -34,12 +34,12 @@ const MapHome = ({ data }: Props) => {
               </div>
 
               <h2 className="text-4xl md:text-5xl font-black text-slate-900 leading-tight mb-4 capitalize">
-                Where quality meets <span className="text-secondary">Painting</span>
+                Where quality meets <span className="text-secondary">Cleaning</span>
               </h2>
 
               <div className="p-6 rounded-3xl bg-slate-50 border border-slate-100 mb-4">
                 <p className="text-slate-600 text-sm">
-                  We provide services in the areas surrounding our headquarters, ensuring fast and <span className="font-bold text-primary">professional Painting Servicess</span> for our entire community.
+                  We provide services in the areas surrounding our headquarters, ensuring fast and <span className="font-bold text-primary">professional Cleaning Servicess</span> for our entire community.
                 </p>
               </div>
 

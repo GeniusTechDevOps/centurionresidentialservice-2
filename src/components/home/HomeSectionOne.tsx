@@ -16,7 +16,7 @@ const HomeSectionOne: React.FC<HomeSectionOneProps> = ({ data, homeSection }) =>
           <div className="bg-secondary rounded-[2.9rem] p-10 md:p-16 flex flex-col md:flex-row items-center justify-between gap-10">
             <div className="max-w-xl text-center md:text-left">
               <h3 className="text-3xl md:text-4xl font-black text-white mb-4">
-                Need a custom Painting Services plan?
+                Need a custom Cleaning Services plan?
               </h3>
               <p className="text-slate-100 font-medium">
                 Contact us today for a free estimate and professional consultation on your next project.
